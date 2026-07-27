@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-This is the repository for the jupyter notebook.
+This is the repository for the assignmet in the DataScienceEcosystem Course at Coursera
